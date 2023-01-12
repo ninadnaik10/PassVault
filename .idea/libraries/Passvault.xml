@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Passvault">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Passvault.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
