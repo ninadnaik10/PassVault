@@ -13,4 +13,4 @@ Steps:
 - Fork this repository
 - Clone the forked repository or download the zip file.
 - Open the project file in Netbeans and add the jar files in project properties -> libraries -> classpath
-- Open the `userid.db` in SQLite
+- Open the `userid.db` in SQLite Studio
